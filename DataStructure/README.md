@@ -4,9 +4,6 @@
 ### Solving the heap using the library
 -> [HeapULib.py]
 
-### Solving the heap from Scratch
--> [HeapUScratch.py]
-
 ### Solving the linklist using the library
 -> [LinkULib.py]
 
